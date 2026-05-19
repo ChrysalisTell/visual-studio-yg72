@@ -1,4 +1,4 @@
-# 
+# premium Visual Studio for PC scripts is the best Visual Studio for PC scripts with emmet-support and resource-monitoring. Safe, reliable, and optimized for maximum performance.
 
 
 
